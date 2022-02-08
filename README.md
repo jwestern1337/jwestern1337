@@ -1,5 +1,5 @@
 - 👋 Hi, My name is jack western*,
-- 👀 I’m interested in cyber security and encryption
+- 👀 I’m interested in cyber security and cryptography
 - 🌱 I’m currently learning Golang and cyber security,
 - 📫 How to reach me: jwestern1337@gmail.com
 

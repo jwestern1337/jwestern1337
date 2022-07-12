@@ -4,7 +4,7 @@
 - 📫 How to reach me: jwestern1337@gmail.com
 
 ```python
-       OS  :  Windows 11 
+OS         :  Windows 11 
 Languages  :  Python, batch, sql, html, css, bit of js
 ```
 

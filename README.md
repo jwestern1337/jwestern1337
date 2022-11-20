@@ -1,6 +1,6 @@
 ```python
        OS  :  Kubuntu (Ubuntu + KDE)
-Languages  :  Python, C#, batch, sql, html, css, bit of js
+Languages  :  Python, CSharp, batch, sql, html, css, bit of js
   Discord  :  kaos#9095 (970795721609580625)
   Learning :  Nothing currently
 ```

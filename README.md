@@ -11,7 +11,7 @@
 ║ - SQL (experienced, 3 years)                                                                  ║
 ║ - Powershell & CMD (proficient, 5 years)                                                      ║
 ║ - Unix Bash (adept, 3 years)                                                                  ║
-║ - HTML , CSS , Javascript (adept, 2 years)                                                    ║
+║ - HTML, CSS, Javascript (adept, 2 years)                                                      ║
 ║ - C (adept, 1 year)                                                                           ║
 ║                                                                                               ║
 ║ [ Tools and technologies ]                                                                    ║
@@ -19,7 +19,7 @@
 ║   - Pip                                                                                       ║
 ║   - Selenium                                                                                  ║
 ║   - Scapy                                                                                     ║
-║   - Beautifulsoup                                                                             ║
+║   - BeautifulSoup                                                                             ║
 ║   - Many many more                                                                            ║
 ║ - Code editors:                                                                               ║
 ║   - Vim / Neovim                                                                              ║

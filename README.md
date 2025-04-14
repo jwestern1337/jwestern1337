@@ -3,8 +3,8 @@
 ║ [ About me ]                                                                                  ║
 ║ - Name: Jack western                                                                          ║
 ║ - Email: jwestern1337@gmail.com                                                               ║
-║ - Full stack software engineer                                                                ║
-║ - Primarily work in blockchain development, networking applications and pentesting tools.     ║
+║ - Full-stack software engineer                                                                ║
+║ - Primarily working in blockchain development, networking applications and pentesting tools.  ║
 ║                                                                                               ║
 ║ [ Languages ]                                                                                 ║
 ║ - Python (proficient, 5 years)                                                                ║

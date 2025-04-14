@@ -1,8 +1,35 @@
 ```
 ╔════════════════════════════════════════════════════════════════════════════════════════════[X]╗
-║ Hi there, my names Jack Western. I'm a 16 year old Full stack software from Southern England. ║
-║ I'm a cybersecurity enthusiast and layer 4/7 networking specialist.                           ║
-║ I've been coding for 4 years and can work in: Python, C#, SQL, HTML/CSS, and batch/bash.      ║
-║ Feel free to contact me on discord @kaos.1337 (982381707846107186).                           ║
+║ [ About me ]                                                                                  ║
+║ - Name: Jack western                                                                          ║
+║ - Email: jwestern1337@gmail.com                                                               ║
+║ - Full stack software engineer                                                                ║
+║ - Primarily work in blockchain development, networking applications and pentesting tools.     ║
+║                                                                                               ║
+║ [ Languages ]                                                                                 ║
+║ - Python (proficient, 5 years)                                                                ║
+║ - SQL (experienced, 3 years)                                                                  ║
+║ - Powershell & CMD (proficient, 5 years)                                                      ║
+║ - Unix Bash (adept, 3 years)                                                                  ║
+║ - HTML , CSS , Javascript (adept, 2 years)                                                    ║
+║ - C (adept, 1 year)                                                                           ║
+║                                                                                               ║
+║ [ Tools and technologies ]                                                                    ║
+║ - Python tools / libraries:                                                                   ║
+║   - Pip                                                                                       ║
+║   - Selenium                                                                                  ║
+║   - Scapy                                                                                     ║
+║   - Beautifulsoup                                                                             ║
+║   - Many many more                                                                            ║
+║ - Code editors:                                                                               ║
+║   - Vim / Neovim                                                                              ║
+║   - Visual studio code                                                                        ║
+║ - Operating Systems:                                                                          ║
+║  - Windows 10/11                                                                              ║
+║  - Linux/Unix distributions:                                                                  ║
+║    - Kali                                                                                     ║
+║    - Garuda                                                                                   ║
+║    - Ubuntu                                                                                   ║
+║    - Arch                                                                                     ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
